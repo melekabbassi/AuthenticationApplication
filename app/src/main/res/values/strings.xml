@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AuthenticationApplication</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+
+    <string name="known_email">test123123@pi.tn</string>
+    <string name="known_password">test123123</string>
+</resources>
